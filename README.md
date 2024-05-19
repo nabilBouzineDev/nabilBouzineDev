@@ -33,8 +33,11 @@
     <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilBouzineDev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nabil bouzine" />
 
 ## 📊 GitHub's Stats
-
-  <img width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabilBouzineDev&theme=transparent"/> <img width="320px" src="https://github-readme-stats.vercel.app/api?username=nabilBouzineDev&show_icons=true&theme=transparent"/>
+  
+  | Summary | Stats |
+  :-------------------------:|:-------------------------:
+  ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabilBouzineDev&theme=transparent) |  ![stats](https://github-readme-stats.vercel.app/api?username=nabilBouzineDev&show_icons=true&theme=transparent)    
   
 ## 🎯 Profile Reach
+
 ![Visitor Count](https://profile-counter.glitch.me/nabilBouzineDev/count.svg)
