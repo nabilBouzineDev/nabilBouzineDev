@@ -4,7 +4,7 @@
 
 🌱 **Currently Learning:**
 - 📱 **Advanced Android Development**
-- 🌐 **Django & Flask with Python**
+- 🌐 **Spring Framework**
 
 📫 **Contact Me:**
 
@@ -15,11 +15,11 @@
 - **Languages:**
   ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=plastic)
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
+  ![Java Badge](https://img.shields.io/badge/Java-000?logo=openjdk&logoColor=fff&style=plastic)
 - **Frameworks:**
   ![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=plastic)
   ![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=fff&style=plastic)
-  ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=plastic)
-  ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=plastic)
+  ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=plastic)
 - **Tools:**
   ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
